@@ -10,6 +10,21 @@ O **Staffly** é um aplicativo **ANDROID** simples e intuitivo desenvolvido para
 - **Banco de Dados SQLite**: Utiliza o SQLite para persistência de dados, com funcionalidade CRUD e persistência de dados utilizando o SQLite.
 - **Feedback ao Usuário**: Mensagens que retornam as ações feitas pelo usuário.
 
+![App Main Screen](screenshots/MainScreen.png) 
+ <br />**Tela Inicial do Aplicativo**    
+<br />
+<br />
+![App Main Screen](screenshots/ListScreen.png) 
+<br />**Listagem do Aplicativo**     
+<br />
+<br />
+![App Main Screen](screenshots/EditScreen.png) 
+<br />**Tela de Edição do Aplicativo**
+<br />
+<br />
+
+
+
 ## Tecnologias Usadas
 - **Android Studio**: Ambiente de desenvolvimento integrado para criar o app.
 - **Java**: Linguagem de programação utilizada para a construção da lógica do aplicativo.
