@@ -9,6 +9,7 @@
 
     <EditText
         android:id="@+id/edittext_name"
+        android:textColor="?attr/colorOnBackground"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
@@ -20,6 +21,7 @@
 
     <EditText
         android:id="@+id/edittext_email"
+        android:textColor="?attr/colorOnBackground"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
